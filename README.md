@@ -1,5 +1,5 @@
 <p align='center'>
-  <img alt="1&1 + GIT" width="300" height="44" src="assets/ionos%2Bgit.svg">
+  <img alt="1&1 + GIT" width="500" height="73" src="assets/ionos%2Bgit.svg">
 </p>
 
 # 1&1 IONOS Git deployment
