@@ -1,8 +1,8 @@
 <p align='center'>
-  <img alt="1&1 + GIT" width="500" height="73" src="assets/ionos%2Bgit.svg">
+  <img alt="1&1 + GIT" width="400" height="59" src="assets/ionos%2Bgit.svg">
 </p>
 
-# 1&1 IONOS Git deployment
+## 1&1 IONOS Git deployment
 Using 1&1 IONOS git repository for website deployment
 
 ### SSH into your 1&1 account
