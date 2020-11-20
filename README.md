@@ -53,3 +53,6 @@ chmod +x post-receive
 ### Or add remote location for an existing repository
 `git remote add origin ssh://username@home.xxxxxxxxx.1and1-data.host/~/repositories/my_repo.git`
 
+### After push
+Find your deployed code here: `~/www/[repo_name]/[branch]`
+
